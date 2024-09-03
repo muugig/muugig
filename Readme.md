@@ -1,7 +1,3 @@
-Here’s a README template customized for you as a data science professional:
-
----
-
 # Hi 👋, I'm Garlee
 
 I am a Data Science Professional
