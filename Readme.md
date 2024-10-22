@@ -1,8 +1,6 @@
-# Hi 👋, I'm Garlee
+# Hi 👋, I'm Munkhgerel
 
-I am a Data Science Professional
-
-🌱 **Professional Learner:** I'm always excited to expand my skill set and explore new technologies.
+I am a Junior Data Analyst
 
 💬 **Ask Me About:** Feel free to ask me questions about my capabilities and experience or to discuss any project:
 
